@@ -13,7 +13,7 @@ namespace CalculateArea
         {
             SetHeight();
             SetWidth();
-            area = height * width / 2;
+            area = height * width / 2;//test
         }
     }
 }
